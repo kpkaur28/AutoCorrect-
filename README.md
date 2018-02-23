@@ -29,26 +29,3 @@ Output should be as follows, modulo floating point differences:
 
 error rate by word:      0.0540917815389984 (2170 errors out of 40117)
 error rate by sentence:  0.655882352941176 (1115 errors out of 1700)
-
-First 20%: 
-error rate by word:      0.0889149238477453 (3567 errors out of 40117)
-error rate by sentence:  0.761176470588235 (1294 errors out of 1700)
-
-Second 40%:
-error rate by word:      0.0690978886756238 (2772 errors out of 40117)
-error rate by sentence:  0.716470588235294 (1218 errors out of 1700)
-
-Third 60%:
-error rate by word:      0.0613954184011766 (2463 errors out of 40117)
-error rate by sentence:  0.687647058823529 (1169 errors out of 1700)
-
-Fourth 80%: 
-error rate by word:      0.0572076675723509 (2295 errors out of 40117)
-error rate by sentence:  0.665294117647059 (1131 errors out of 1700)
-
-Fifth 100%:
-error rate by word:      0.0540917815389984 (2170 errors out of 40117)
-error rate by sentence:  0.655882352941176 (1115 errors out of 1700)
-
-
-
