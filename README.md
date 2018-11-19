@@ -1,5 +1,5 @@
 # AutoCorrect-
-ECS 189G - Course Project 2
+ECS 189G - NLP (AI) Course Project
 
 Noah A. Smith
 2/21/08
